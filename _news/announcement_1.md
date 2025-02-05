@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-10-08 8:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Received $2,000 scholarship from [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) to attend Grace Hopper Celebration 2024!
