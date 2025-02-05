@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+##### hello!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a 4th year undergraduate pursuing a B.S. in Data Science & Cognitive Science at UC San Diego. I am currently working with [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) and [Dr. Tim Brady](https://bradylab.ucsd.edu/people.html) on my independent honors thesis on the flexibility of pupillary signals under different working memory task strategies. I am also working with [Dr. Armin Schwartzman](https://schwartzman.scholar.st) on multivariate prediction of human brain fMRI data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of research, I enjoy traveling with friends, finding the best matcha in town, and I am currently training for a half marathon :)
