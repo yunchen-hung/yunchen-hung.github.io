@@ -128,7 +128,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/yun-chen-hung-767152257/", "_blank");
+          window.open("https://www.linkedin.com/in/yun-chen-hung-767152257", "_blank");
         },
       },{
         id: 'social-rss',
@@ -136,13 +136,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
