@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received $2,000 scholarship from [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) to attend Grace Hopper Celebration 2024!
+Received $2,000 scholarship from Halıcıoğlu Data Science Institute to attend Grace Hopper Celebration 2024!
