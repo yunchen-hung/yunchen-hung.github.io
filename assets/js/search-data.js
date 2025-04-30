@@ -377,8 +377,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-will-be-joining-the-memory-optimization-lab-at-rutgers-university-as-a-phd-student-under-the-guidance-of-dr-qiong-zhang-this-fall",
+          title: 'I will be joining the Memory Optimization Lab at Rutgers University as a...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
