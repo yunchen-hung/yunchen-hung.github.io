@@ -9,8 +9,10 @@ profile:
   image: JenniferHung.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <a href="assets/pdf/Jennifer_s_CV.pdf">CV</a>
-    <a href="https://github.com/yunchen-hung">GitHub</a>
+    <p><a href="assets/pdf/Jennifer_s_CV.pdf">CV | </a>
+    <p><a href="https://github.com/yunchen-hung">GitHub | </a>
+    <p><a href="https://www.linkedin.com/in/yun-chen-hung-767152257/">LinkedIn | </a>
+    <p><a href="mailto:yh1242@scarletmail.rutgers.edu">Email</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
