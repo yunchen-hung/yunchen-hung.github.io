@@ -13,6 +13,8 @@ profile:
     <p><a href="https://github.com/yunchen-hung">GitHub</a>|</p>
     <p><a href="https://www.linkedin.com/in/yun-chen-hung-767152257/">LinkedIn</a>|</p>
     <p><a href="mailto:yh1242@scarletmail.rutgers.edu">Email</a></p>
+    <p><a href="https://scholar.google.com/citations?user=HqY-FxsAAAAJ&hl=en&authuser=2">Google Scholar</a>|</p>
+    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -25,6 +27,8 @@ announcements:
 
 ### hello!
 
-I am a 4th year undergraduate pursuing a B.S. in Data Science & Cognitive Science at UC San Diego. I am currently working with [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) and [Dr. Tim Brady](https://bradylab.ucsd.edu/people.html) on my independent honors thesis on the flexibility of pupillary signals under different working memory task strategies. In the past, I had the pleasure of working with [Dr. Armin Schwartzman](https://schwartzman.scholar.st) on [Exploring Working Memory Task Predictability using fMRI Data](https://drive.google.com/file/d/1Alh3EjBe8erQRdZTWuVt4Q8l2W-dl-4U/view).
+I am a PhD student working with [Dr. Qiong Zhang](https://qiongzhang.github.io) at Rutgers University -- New Brunswick. My research lies primarily in cognitive modeling of human memory to reverse-engineer the brain.
 
-Outside of research, I enjoy traveling with friends✈️, finding the best matcha in town🍵, and I am currently training for a half marathon🏃
+Previously, I worked with [Dr. Anastasia Kiyonaga](https://www.kiyonagalab.org/pi-anastasia-kiyonaga) and [Dr. Tim Brady](https://bradylab.ucsd.edu/people.html) on my undergraduate honors thesis on the flexibility of pupillary signals under different working memory task strategies. Moreover, I had the pleasure of working with [Dr. Armin Schwartzman](https://schwartzman.scholar.st) on [Exploring Working Memory Task Predictability using fMRI Data](https://drive.google.com/file/d/1Alh3EjBe8erQRdZTWuVt4Q8l2W-dl-4U/view).
+
+Outside of research, I enjoy traveling with friends✈️, finding the best matcha in town🍵, and I completed a half marathon this year🏃
