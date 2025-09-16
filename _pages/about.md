@@ -14,7 +14,6 @@ profile:
     <p><a href="https://www.linkedin.com/in/yun-chen-hung-767152257/">LinkedIn</a>|</p>
     <p><a href="mailto:yh1242@scarletmail.rutgers.edu">Email</a></p>
     <p><a href="https://scholar.google.com/citations?user=HqY-FxsAAAAJ&hl=en&authuser=2">Google Scholar</a>|</p>
-    
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
