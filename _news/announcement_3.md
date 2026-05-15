@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on studying how pupil size flexibly adapts to visual working memory task strategies is now published in [iScience](10.1016/j.isci.2026.115920)!
+Our work on studying how pupil size flexibly adapts to visual working memory task strategies is now published in [iScience](https://doi.org/10.1016/j.isci.2026.115920)!
